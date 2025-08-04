@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite our paper if you find our work useful in your research."
+title: "DIGRAC: Digraph Clustering Based on Flow Imbalance"
+authors:
+- family-names: "He"
+  given-names: "Yixuan"
+- family-names: "Permultter"
+  given-names: "Michael"
+- family-names: "Reinert"
+  given-names: "Gesine"
+- family-names: "Cucuringu"
+  given-names: "Mihai"
+license: MIT
+url: "https://github.com/SherylHYX/MSGNN"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "He"
+    given-names: "Yixuan"
+  - family-names: "Permultter"
+    given-names: "Michael"
+  - family-names: "Reinert"
+    given-names: "Gesine"
+  - family-names: "Cucuringu"
+    given-names: "Mihai"
+  journal: "Proceedings of the First Learning on Graphs Conference, PMLR 198"
+  title: "MSGNN: A Spectral Graph Neural Network Based on a Novel Magnetic Signed Laplacian"
+  year: 2022
+  start: 40
+  end: 1
